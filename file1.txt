@@ -4,3 +4,5 @@ complete the homework
 check the answers
 
 test case for website verification
+
+new test case for 02.10
